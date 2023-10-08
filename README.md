@@ -1,1 +1,1 @@
-# Maheshwar-Handlooms
+small Flipkart clone with the most basic HTML and css
