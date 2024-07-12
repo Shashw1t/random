@@ -10,7 +10,7 @@ function App() {
   },
   {
     title: "study DSA",
-    decription: "study DSA from 9-10",
+    decription: "study DSA from 9-10"
     completed: true
   }])
 
